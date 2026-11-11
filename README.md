@@ -1,6 +1,8 @@
-# Probably Stolen MCP · 配套 Skill
+# 深空当铺：可能是偷的 · MCP 配套 Skill
 
-让 AI 通过游戏 MCP 读取商店、库存、顾客和机器状态，并按玩家目标执行交易、生产与剧情操作。Skill 提供操作流程、判断依据和真实游玩中提炼的经营方法。
+这是《深空当铺：可能是偷的》（Probably Stolen）社区 Mod「游戏 MCP · AI 游玩」的配套 Skill。AI 通过本机 MCP 读取商店、库存、顾客和机器状态，再按玩家指定的目标进行交易、生产和剧情操作。Skill 汇集了实测的经营方法，涵盖交易核对、现金周转和生产排查。
+
+游戏页面与下载 · [Steam 商店](https://store.steampowered.com/app/4348910/?l=schinese) · [游戏创意工坊](https://steamcommunity.com/app/4348910/workshop/?l=schinese) · [下载 Skill 与客户端附件](https://github.com/cloud-1104/probably-stolen-player/releases/latest)
 
 适配 Windows Steam Build 26525552（100-Rev13），配套 Mod 版本 1.2.7。
 
@@ -41,4 +43,4 @@
 
 给 AI 一个具体目标，例如「检查当前存档，经营到付清下一次房租后停下」。Skill 会按需读取交易、鉴定、生产、探索和经营策略专题。界面控件和物品运行 ID 会变化，每次操作后重新读取对应区域。
 
-这是 Probably Stolen 的社区配套项目。游戏及其商标归原权利人所有。
+游戏及其商标归原权利人所有。
